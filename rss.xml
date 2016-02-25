@@ -4,7 +4,7 @@
         <description><![CDATA[Transformation church]]></description>
         <link>https://thegrid.ai/transformation-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 15:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 15:32:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/transformation-church/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/transformation-church/worshipping-together-sundays-at-10-am/index.html</link>
             <guid isPermaLink="false">a95f7973-ea6e-46a2-af9f-f588143d646f</guid>
             <pubDate>Thu, 25 Feb 2016 15:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Current message series.]]></title>
+            <description><![CDATA[<article><h1>Current message series.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b1bc715823858e22d3a5e28328da81983788db9.png"></article>]]></description>
+            <link>https://thegrid.ai/transformation-church/current-message-series/index.html</link>
+            <guid isPermaLink="false">614ad5f5-7aeb-405d-84a2-b1ced6d564ae</guid>
+            <pubDate>Thu, 25 Feb 2016 15:32:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
