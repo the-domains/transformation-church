@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Transformation church]]></title>
+        <description><![CDATA[Transformation church]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Feb 2016 15:15:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Worshipping together. ]]></title>
+            <description><![CDATA[<article><h1>Worshipping together. </h1><p>Worshipping together.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02433005-3448-4d95-90fe-83932a87db73.png"></article>]]></description>
+            <link>undefinedworshipping-together/index.html</link>
+            <guid isPermaLink="false">7730689c-d2f5-40f2-8810-3b3dd6ea152b</guid>
+            <pubDate>Thu, 25 Feb 2016 15:15:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
