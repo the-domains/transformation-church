@@ -1,0 +1,14 @@
+layout_spectrum: 0.2894737
+typography_spectrum: 0.521341
+color:
+  saturation: 0.5064447
+  lightness: 0.7126746
+  brandStrength: 1
+  brandColors:
+    - '#838383'
+    - '#FFFFFF'
+    - '#A81821'
+    - '#181818'
+    - '#4C4C4C'
+  rhythmicContrast: 0.8966051
+name: Transformation church
