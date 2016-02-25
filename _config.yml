@@ -1,14 +1,26 @@
-layout_spectrum: 0.2894737
-typography_spectrum: 0.521341
+layout_spectrum: 0.5826307
+name: Transformation church
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.5064447
-  lightness: 0.7126746
   brandStrength: 1
+  saturation: 0.5064447
   brandColors:
     - '#838383'
     - '#FFFFFF'
     - '#A81821'
     - '#181818'
     - '#4C4C4C'
+  lightness: 0.7126746
   rhythmicContrast: 0.8966051
-name: Transformation church
+typography_spectrum: 0.521341
