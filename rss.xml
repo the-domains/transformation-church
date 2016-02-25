@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Transformation church]]></title>
         <description><![CDATA[Transformation church]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/transformation-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 15:18:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 15:26:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/transformation-church/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f577fde1-828a-4a88-b062-0d0f023f6f4e.png">]]></description>
+            <link>https://thegrid.ai/transformation-church/cf24d549-332d-4334-aa71-ddad3ae2a213/index.html</link>
+            <guid isPermaLink="false">cf24d549-332d-4334-aa71-ddad3ae2a213</guid>
+            <pubDate>Thu, 25 Feb 2016 15:26:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Worshipping together Sundays at 10 am]]></title>
             <description><![CDATA[<article><h1>Worshipping together Sundays at 10 am</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53abdaaff175d3e7e8097391f3ad1f464839d2c5.png"></article>]]></description>
-            <link>undefinedworshipping-together-sundays-at-10-am/index.html</link>
+            <link>https://thegrid.ai/transformation-church/worshipping-together-sundays-at-10-am/index.html</link>
             <guid isPermaLink="false">a95f7973-ea6e-46a2-af9f-f588143d646f</guid>
             <pubDate>Thu, 25 Feb 2016 15:18:51 GMT</pubDate>
         </item>
