@@ -1,5 +1,7 @@
-layout_spectrum: 0.5826307
 name: Transformation church
+favicon: null
+layout_spectrum: 0.45848
+typography_spectrum: 0.521341
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.521341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  lightness: 0.9555138
-  saturation: 0.5064447
-  rhythmicContrast: 0.8966051
   brandColors:
     - '#838383'
     - '#FFFFFF'
     - '#A81821'
     - '#181818'
     - '#4C4C4C'
+  brandStrength: 1
+  lightness: 0.9555138
+  saturation: 0.5064447
+  rhythmicContrast: 0.8966051
+purpose: []
